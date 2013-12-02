@@ -4,7 +4,7 @@ var config = {
               link: 'https://github.com/sankha93/grite' },
             { text: 'Documentation',
               link: 'https://github.com/sankha93/grite/wiki/Documentation'} ],
-  posts: [ '7219242'],
+  posts: [ '7219242','5163440'],
   atOnce: 5,
   footerText: "Grite has been made with love by Sankha. Follow him on Twitter at <a href=\"https://twitter.com/sankha93\">@sankha93</a>."
 };
